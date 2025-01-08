@@ -92,3 +92,10 @@ swich
 ternary condition
 
 write a condition to check greatest numbers among 3 numbers
+
+minimum iteration count is 0 for for loops and same for while loops 
+minimum iteration count of do while loop is 1
+
+functions:
+-function is a building block of javascript
+-function is a block of code which is used to execute specific task.
