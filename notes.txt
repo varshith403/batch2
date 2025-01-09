@@ -99,3 +99,17 @@ minimum iteration count of do while loop is 1
 functions:
 -function is a building block of javascript
 -function is a block of code which is used to execute specific task.
+
+syntax: function function_name(optional parameters,a){
+                     //statements
+                     }
+                    function_name(arguments)
+
+types of function:
+1.named
+2.anonymous
+3.function expression
+4.IIFE: it can be invoked only one time 
+5.arrow function: it concise the normal function syntax
+6.higher order function
+7.callback function
