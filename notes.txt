@@ -1,5 +1,7 @@
 !Doctype is used for Document types declaration state
 
+interpreter reads the code in javascript
+
 head is an invisible to the end user
 
 js is linked using the script tag
@@ -113,3 +115,8 @@ types of function:
 5.arrow function: it concise the normal function syntax
 6.higher order function
 7.callback function
+
+map is similar to for loop and it is a built in methods of array
+
+closure: closure is a memory created when functions are bundled together or nested each other by giving accessibility 
+to the inner most function to 
