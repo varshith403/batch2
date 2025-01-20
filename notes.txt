@@ -120,3 +120,27 @@ map is similar to for loop and it is a built in methods of array
 
 closure: closure is a memory created when functions are bundled together or nested each other by giving accessibility 
 to the inner most function to 
+
+Arrays:
+-it is a non primitive data type
+-array is used to store multiple values in a single variable
+
+syntax []
+
+object:
+object is an entity which contains states and behaviors
+states-properties , behavior - functionality
+object is an entity to store the values in the form key and value pair
+
+- Object is an entity which contains states and behaviors.
+-states - properties , behaviour - functionality.
+- Object is an entity to store the values in the form key and value pair.
+
+synatax :-   let obj = {};
+ex :-   let userdetails ={
+        name:"Sam",
+        age:23
+        }
+
+Note: - Javascript is mainly object -based language till 2015 (es6) 
+- after es6 feature they added oops concept.
