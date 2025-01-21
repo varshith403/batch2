@@ -144,3 +144,10 @@ ex :-   let userdetails ={
 
 Note: - Javascript is mainly object -based language till 2015 (es6) 
 - after es6 feature they added oops concept.
+
+-json stands for javascript object notation
+-json is a javascript technique used to transfer the data from client to server
+-json object does not contains variables
+
+json methods:
+json.stringify()
