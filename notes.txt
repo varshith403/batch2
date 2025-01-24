@@ -151,3 +151,19 @@ Note: - Javascript is mainly object -based language till 2015 (es6)
 
 json methods:
 json.stringify()
+
+async & await:
+async: async keyword converts synchronous function into asynchronous function and starts the promise
+
+Dom:
+dom is a web api used to manipulate the html content 
+dom is used to add , remove ,update the content in the html Document
+
+Dom methods:
+1.Document.getElementById("");
+2.Document.getElementByClassName("");
+3.Document.getElementByTagName("");
+4.Document.getElementByName("");
+5.Document.querySelector("");
+6.Document.querySelectorAll("");
+
