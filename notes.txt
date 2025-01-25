@@ -167,3 +167,8 @@ Dom methods:
 5.Document.querySelector("");
 6.Document.querySelectorAll("");
 
+events in dom:
+
+-events are nothing but an actions performed on the html element 
+-in dom , we have events like cli
+

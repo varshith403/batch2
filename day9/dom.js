@@ -21,3 +21,13 @@ console.log(ele1);
 let ele2 = document.querySelector(".test");
 console.log(ele2);
 
+let bgcolor = document.querySelectorAll(".bgcolor");
+[...bgcolor].map(element=>{
+    element.addEventListener("mouseover",()=>{
+        element.style.backgroundColor = element.innerText;
+
+    });
+    element.addEventListener("mouseleave",()=>{
+        element.style.backgroundColor = "transperent";
+    })
+})
