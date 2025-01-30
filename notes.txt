@@ -172,3 +172,11 @@ events in dom:
 -events are nothing but an actions performed on the html element 
 -in dom , we have events like cli
 
+Q.take array of objects where each object contains empid,empname,empcompany,empsalary,empaddress where empaddress 
+further contains an object which includes 2 proreties empcity,emparea.
+display employees data on the ui through javascript
+
+modules:
+namedmodules
+default modules
+exports and imports can be done by modules
